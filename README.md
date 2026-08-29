@@ -58,6 +58,8 @@ Data Engineer and Data Science graduate with hands-on experience in Python, SQL,
 ![AI Tools](https://img.shields.io/badge/Cursor%20AI-40%25-green)
 ![AI Tools](https://img.shields.io/badge/Windsurf%20AI-40%25-green)
 ![AI Tools](https://img.shields.io/badge/Claude%20AI-40%25-green)
+![AI Tools](https://img.shields.io/badge/OpenCode%20AI-40%25-green)
+![AI Tools](https://img.shields.io/badge/Ollama%20AI-40%25-green)
 
 
 <div align="center">
