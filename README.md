@@ -1,7 +1,7 @@
 Hi 👋, I'm Kousik Panigrahi </br>
 Data Engineer 
 
-Email Me 👉 ✉️ **panigrahikousik32@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **panigrahikousik32@gmail.com** </br> For Collaboration/Project or Anything Else. 😊😊
 
 
 # 💫 About Me:
